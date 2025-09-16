@@ -1,0 +1,20 @@
+{
+  "name": "ticket-bot-commu",
+  "version": "0.1.0",
+  "description": "Un bot Discord minimal pour gérer des tickets (FR).",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy-commands": "node src/deploy-commands.js"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "dependencies": {
+  "discord.js": "^14.16.0",
+  "dotenv": "^16.0.0",
+  "web-streams-polyfill": "^3.2.1",
+  "fetch-blob": "^3.2.0"
+  }
+}

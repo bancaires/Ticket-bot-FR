@@ -1,0 +1,6 @@
+[
+  { "label": "Plainte", "value": "plainte", "description": "Témoins ou victimes" },
+  { "label": "Demande de Rank", "value": "demande_rank", "description": "Monter dans la Hiérarchie" },
+  { "label": "Partenariat", "value": "partenariat", "description": "Propositions et partenariats" },
+  { "label": "Autre", "value": "autre", "description": "Autre demande" }
+]
