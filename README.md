@@ -1,11 +1,8 @@
-Parfait ✅ voici la version **française complète** de ton `README.md` avec le **badge multilingue pro** en haut :
-
----
+[![English](https://img.shields.io/badge/lang-English-blue?style=for-the-badge&logo=discord)](./README.en.md)
 
 ````markdown
 # 🎫 Ticket Bot (FR)
 
-[![English](https://img.shields.io/badge/lang-English-blue?style=for-the-badge&logo=discord)](./README.en.md)
 
 Un bot simple et efficace pour gérer les tickets sur Discord.  
 Il fonctionne avec des commandes slash, boutons et menus de sélection.
@@ -160,3 +157,4 @@ Le bot a besoin des permissions suivantes :
 ---
 
 ```
+
