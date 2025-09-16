@@ -1,4 +1,3 @@
-````markdown
 [![English](https://img.shields.io/badge/lang-English-blue?style=for-the-badge&logo=discord)](./README.en.md)
 
 # 🎫 Ticket Bot (FR)
@@ -156,3 +155,4 @@ Le bot a besoin des permissions suivantes :
 ---
 
 ```
+
