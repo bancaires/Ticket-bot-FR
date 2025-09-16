@@ -1,8 +1,7 @@
+````markdown
 [![English](https://img.shields.io/badge/lang-English-blue?style=for-the-badge&logo=discord)](./README.en.md)
 
-````markdown
 # 🎫 Ticket Bot (FR)
-
 
 Un bot simple et efficace pour gérer les tickets sur Discord.  
 Il fonctionne avec des commandes slash, boutons et menus de sélection.
@@ -29,13 +28,13 @@ cd /path/to/ticket-bot
 
 Exemples spécifiques aux shells courants :
 
-* PowerShell :
+* **PowerShell** :
 
 ```powershell
 cd "C:\chemin\vers\ticket-bot"
 ```
 
-* Invite de commandes (cmd.exe) :
+* **Invite de commandes (cmd.exe)** :
 
 ```cmd
 cd C:\chemin\vers\ticket-bot
@@ -49,19 +48,19 @@ npm install
 
 3. Copiez et éditez le fichier d'environnement (`.env`) :
 
-* Bash / macOS / Linux :
+* **Bash / macOS / Linux** :
 
 ```bash
 cp .env.example .env
 ```
 
-* PowerShell :
+* **PowerShell** :
 
 ```powershell
 copy .env.example .env
 ```
 
-* Invite de commandes (cmd.exe) :
+* **Invite de commandes (cmd.exe)** :
 
 ```cmd
 copy .env.example .env
@@ -93,7 +92,7 @@ npm start
 
 * **Publier le panneau** (uniquement par les admins définis) :
 
-```
+```text
 /ticket panel
 ```
 
@@ -157,4 +156,3 @@ Le bot a besoin des permissions suivantes :
 ---
 
 ```
-
