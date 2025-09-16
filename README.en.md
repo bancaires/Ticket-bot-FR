@@ -1,8 +1,3 @@
-Super 👍 Voici la version **anglaise complète** de ton `README.en.md` avec le badge multilingue en haut :
-
----
-
-````markdown
 # 🎫 Ticket Bot (EN)
 
 [![Français](https://img.shields.io/badge/lang-Français-blue?style=for-the-badge&logo=discord)](./README.md)
@@ -32,13 +27,13 @@ cd /path/to/ticket-bot
 
 Examples for common shells:
 
-* PowerShell:
+* **PowerShell**:
 
 ```powershell
 cd "C:\path\to\ticket-bot"
 ```
 
-* Command Prompt (cmd.exe):
+* **Command Prompt (cmd.exe):**
 
 ```cmd
 cd C:\path\to\ticket-bot
@@ -52,19 +47,19 @@ npm install
 
 3. Copy and edit the environment file (`.env`):
 
-* Bash / macOS / Linux:
+* **Bash / macOS / Linux**:
 
 ```bash
 cp .env.example .env
 ```
 
-* PowerShell:
+* **PowerShell**:
 
 ```powershell
 copy .env.example .env
 ```
 
-* Command Prompt (cmd.exe):
+* **Command Prompt (cmd.exe):**
 
 ```cmd
 copy .env.example .env
@@ -96,7 +91,7 @@ npm start
 
 * **Publish the panel** (admins only, or IDs defined in `.env`):
 
-```
+```text
 /ticket panel
 ```
 
@@ -155,8 +150,7 @@ The bot requires the following permissions:
 * Developed by **sexualwhisper**
 * [Discord Profile](https://discord.com/users/690749637921079366)
 
-```
 
 ---
 
-```
+
