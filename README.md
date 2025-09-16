@@ -150,9 +150,5 @@ Le bot a besoin des permissions suivantes :
 * Développé par **sexualwhisper**
 * [Profil Discord](https://discord.com/users/690749637921079366)
 
-```
-
 ---
-
-```
 
